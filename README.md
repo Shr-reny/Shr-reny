@@ -1,5 +1,4 @@
-### Hi there, I'm Shruti ! 👋
-Glad to see you here!
+### Hey, Shruti is glad to see you here! ! 👋
 My name is Shruti Swarupa Dhar and I'm pursuing B.Tech in Computer Science.
 The amazing tech stuffs all around drives me crazy and excites me to explore more. Let's learn together!
 <!--

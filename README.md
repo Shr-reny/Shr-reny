@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Alt text](https://i.ibb.co/8B5tGsX/github-computer-programming-software-repository-github-thumbnail-removebg-preview.png)
+![Alt text](https://i.ibb.co/cxZ026D/png-transparent-github-repository-version-control-fork-github-mammal-cat-like-mammal-cartoon-removeb.png)
 <div id="badges">
   <a href="https://www.linkedin.com/in/shruti-swarupa-dhar-05149a256/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

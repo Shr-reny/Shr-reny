@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shr-reny&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+---
 
-[![Shr-reny's GitHub | Stats](https://stats.quine.sh/Shr-reny/github?theme=dark)](https://quine.sh)
 

@@ -26,7 +26,8 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-
+---
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 ---
 ### :fire: My Stats :
 
@@ -38,8 +39,6 @@ Here are some ideas to get you started:
 ### :trophy: Trophies earned:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shr-reny&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
----
+
 
 

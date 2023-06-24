@@ -2,7 +2,7 @@
 My name is Shruti Swarupa Dhar and I'm pursuing B.Tech in Computer Science.
 The amazing tech stuffs all around drives me crazy and excites me to explore more. Let's learn together!
 <!--
-**Shr-reny/Shr-reny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Shr-reny/Shr-reny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub prof
 
 Here are some ideas to get you started:
 

@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Alt text](https://i.ibb.co/cxZ026D/png-transparent-github-repository-version-control-fork-github-mammal-cat-like-mammal-cartoon-removeb.png)
+![Alt text](<a href="https://imgbb.com/"><img src="https://i.ibb.co/N3DpdKq/images-3-removebg-preview-1.png" alt="images-3-removebg-preview-1" border="0"></a>)
 - 🔭 I’m currently working on polishing my Web-Development skills
 - 😄 Pronouns : She/Her
 - 📫 How to reach me :

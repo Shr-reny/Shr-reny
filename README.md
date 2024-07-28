@@ -1,6 +1,10 @@
 ### 💫 Hey, Shruti is glad to see you here! 
 My name is Shruti Swarupa Dhar and I'm pursuing B.Tech in Computer Science.
 The amazing tech stuffs all around drives me crazy and excites me to explore more. Let's learn together!
+- 🔭 I’m passionate about learning new technologies
+- 😄 Pronouns : She/Her
+- 📫 How to reach me :
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shruti-swarupa-dhar-05149a256/)
 <!--
 
 Here are some ideas to get you started:
@@ -14,11 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ..
 - ⚡ Fun fact: 
 -->
-<a href="https://imgbb.com/"><img align="right" height=400px src="https://i.ibb.co/7zqTf52/octocat-1722178419978.png" border="0"></a>
-- 🔭 I’m passionate about learning new technologies
-- 😄 Pronouns : She/Her
-- 📫 How to reach me :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shruti-swarupa-dhar-05149a256/)
+<a href="https://imgbb.com/"><img align="right" height=300px src="https://i.ibb.co/7zqTf52/octocat-1722178419978.png" border="0"></a>
 <!--
 ---
 # 💻 Tech Stack:

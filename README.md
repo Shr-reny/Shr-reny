@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://imgbb.com/"><img src="https://octodex.github.com/images/hula_loop_octodex03.gif" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://ibb.co/1nkpg58" border="0"></a>
 - 🔭 I’m currently working on polishing my Web-Development skills
 - 😄 Pronouns : She/Her
 - 📫 How to reach me :

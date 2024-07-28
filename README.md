@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ..
 - ⚡ Fun fact: 
 -->
-<a href="https://imgbb.com/"><img align="right" height=500px src="https://i.ibb.co/7zqTf52/octocat-1722178419978.png" border="0"></a>
+<a href="https://imgbb.com/"><img align="right" height=480px src="https://i.ibb.co/7zqTf52/octocat-1722178419978.png" border="0"></a>
 - 🔭 I’m passionate about learning new technologies
 - 😄 Pronouns : She/Her
 - 📫 How to reach me :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shruti-swarupa-dhar-05149a256/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/shruti_reny) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shruti-swarupa-dhar-05149a256/)
 <!--
 ---
 # 💻 Tech Stack:
@@ -26,16 +26,10 @@ Here are some ideas to get you started:
 
 ---
 
-# 📊 GitHub Stats:
-![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shr-reny&show_icons=true&theme=dark)
-![](https://github-readme-streak-stats.herokuapp.com/?user=shr-reny&theme=dark&hide_border=true)
+![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shr-reny&show_icons=true&theme=dark)![](https://github-readme-streak-stats.herokuapp.com/?user=shr-reny&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shr-reny&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ---
-
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shr-reny&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---

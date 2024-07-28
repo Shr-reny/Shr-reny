@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ..
 - ⚡ Fun fact: 
 -->
-
-
-<a href="https://imgbb.com/"><img src="https://ibb.co/1nkpg58" border="0"></a>
-- 🔭 I’m currently working on polishing my Web-Development skills
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/7zqTf52/octocat-1722178419978.png" border="0"></a>
+- 🔭 I’m passionate about learning new technologies
 - 😄 Pronouns : She/Her
 - 📫 How to reach me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shruti-swarupa-dhar-05149a256/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/shruti_reny) 

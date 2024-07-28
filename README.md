@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ..
 - ⚡ Fun fact: 
 -->
-<a href="https://imgbb.com/"><img align="right" height=350px src="https://i.ibb.co/7zqTf52/octocat-1722178419978.png" border="0"></a>
+<a href="https://imgbb.com/"><img align="right" height=320px src="https://i.ibb.co/7zqTf52/octocat-1722178419978.png" border="0"></a>
 <!--
 ---
 # 💻 Tech Stack:

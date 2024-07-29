@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=shr-reny&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)-->
 ---
 ![](https://github-profile-trophy.vercel.app/?username=shr-reny&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shr-reny&icon=5&color=6)](https://visitcount.itsvg.in)

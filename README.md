@@ -1,5 +1,5 @@
 ### 💫 Hey, Shruti is glad to see you here! 
-My name is Shruti Swarupa Dhar and I'm pursuing B.Tech in Computer Science.
+My name is Shruti Swarupa Dhar.
 The amazing tech stuffs all around drives me crazy and excites me to explore more. Let's learn together!
 - 🔭 I’m passionate about learning new technologies
 - 😄 Pronouns : She/Her
